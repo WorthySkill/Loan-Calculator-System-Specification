@@ -23,6 +23,14 @@ The complete operational flow of the ecosystem is formally modeled using structu
 * **Class Diagram:** Models structural domain objects (`Loan`, `Payment`, `AmortizationSchedule`, `UserInterface`) demonstrating high encapsulation, strict data validation boundaries, and 1-to-many operational dependencies.
 * **Sequence Diagram:** Outlines clear transactional boundaries between the View layer, `LoanController` interface, and business model objects, complete with data validation routing parameters.
 * **Activity Diagram:** Tracks the explicit execution path of the Rule-Based Inference Advisory Loop to map profile parameters to precise corporate asset recommendations.
+### Use Case Diagram
+![Use Case Diagram](UML-Diagrams/Use_Case.png)
+
+### Class Diagram
+![Class Diagram](UML-Diagrams/Class.png)
+
+### Sequence Diagram
+![Sequence Diagram](UML-Diagrams/Sequence.png)
 
 ## 🛠️ Planned Enterprise Technology Stack
 * **Backend Frameworks:** Python (PyTest) / Java (Spring Boot / JUnit)
