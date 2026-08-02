@@ -1,5 +1,6 @@
 # Loan Calculator System - Enterprise Architecture & Software Design Specification
 
+
 A comprehensive software engineering blueprint and full system lifecycle specification for an enterprise-level Loan Calculator and Intelligent Strategic Advisory platform. This portfolio showcases advanced system analysis, relational database schema engineering, object-oriented design patterns, unified modeling language (UML) structural mappings, and end-to-end testing strategies.
 
 ## 🧠 System Innovations & Core Features
